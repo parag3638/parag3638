@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 🤝 I’m looking for a new role **Software Engineer**
+- 🤝 I’m looking for a new role as a **Software Engineer**
 
 - 💬 Ask me about **react, angular and node**
 
