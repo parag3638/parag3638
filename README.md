@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for a new role as a **Software Engineer**
 
-- 💬 Ask me about **react, angular and node**
+- 💬 Ask me about **react, next and node**
 
 - ⚡ Fun fact **I enjoy creating content**
 
