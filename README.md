@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react, next and node**
 
-- ⚡ Fun fact **I enjoy designing awesome interfaces**
+- ⚡ Fun fact **I enjoy creating awesome designs **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
