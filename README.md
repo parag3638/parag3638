@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parag Singh</h1> 
 <h3 align="center">Crafting Code & Trades: Full Stack Synergy</h3>
 
-- 🔭 I’m currently working on **dex_Arbitrage**
-
-- 🌱 I’m currently learning **DevOps**
-
-- 🤝 I’m looking for a new role as a **Software Engineer**
+- 🔭 I’m currently developing **ArbiMind**, an intelligent DeFi trading agent.
 
 - 💬 Ask me about **react, next and node**
 
