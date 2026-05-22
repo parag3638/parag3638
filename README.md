@@ -1,8 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Parag%20Singh&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=Crafting%20Code%20%26%20Trades%3A%20Full%20Stack%20Synergy&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn"/>
-
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%94%AD+Currently+building+ArbiMind;%F0%9F%A7%A0+Intelligent+DeFi+Trading+Agent;%E2%9A%A1+Full+Stack+%7C+Web3+%7C+Design+Enthusiast)](https://git.io/typing-svg)
+
+# Hey, I'm Parag 👋
+
+**`Full Stack Developer | Web3 Builder | Design Enthusiast`**
+
+<br/>
+
+<a href="https://github.com/parag3638">
+  <img src="https://img.shields.io/badge/🔭_Building-ArbiMind-58a6ff?style=for-the-badge&labelColor=0d1117" alt="ArbiMind"/>
+</a>
+<img src="https://img.shields.io/badge/🧠_DeFi-Trading_Agent-8b5cf6?style=for-the-badge&labelColor=0d1117" alt="DeFi"/>
+<img src="https://img.shields.io/badge/⚡_Full_Stack-Synergy-10b981?style=for-the-badge&labelColor=0d1117" alt="Full Stack"/>
 
 </div>
 
