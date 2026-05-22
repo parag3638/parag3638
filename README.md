@@ -8,8 +8,6 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ### 🧑‍💻 &nbsp;About Me
 
 - 🔭 &nbsp;Currently developing **ArbiMind** — an intelligent DeFi trading agent
@@ -17,8 +15,6 @@
 - 💬 &nbsp;Ask me about **React, Next.js & Node.js**
 - ⚡ &nbsp;Fun fact: I enjoy creating awesome designs
 - 🎯 &nbsp;Focus: Full Stack Development & DeFi
-
-<br clear="both"/>
 
 ---
 
@@ -65,14 +61,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parag3638&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
-### 🏆 &nbsp;GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parag3638&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies"/>
 </p>
 
 ---
