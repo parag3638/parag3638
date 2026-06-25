@@ -1,14 +1,13 @@
 # Parag Singh
 
-## Software Developer. Web3 Builder. UI/UX Designer.
+## Software Developer | Web3 Builder | UI/UX Designer
 
-Building **ArbiMind** — an intelligent DeFi trading agent focused on automated trading workflows, AI-assisted decisions, and clean product experience.
-
-I like shipping full-stack products where the backend works, the interface feels sharp, and the user does not need a manual written by ancient monks.
+Currently building **ArbiMind** 🧠
+An intelligent DeFi trading agent for automated trading workflows.
 
 ---
 
-### Stack
+### Tech I use
 
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,python,mongodb,postgres,figma,azure,docker&theme=dark" alt="Tech Stack" />
@@ -21,7 +20,7 @@ I like shipping full-stack products where the backend works, the interface feels
 
 ---
 
-### Links
+### Find me
 
 <p>
   <a href="https://www.paragsingh.in" target="_blank">
