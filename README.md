@@ -22,7 +22,7 @@
 * 🔭 Currently building **ArbiMind**, an intelligent DeFi trading agent
 * 🧠 Interested in **Web3, DeFi automation, AI agents, and full-stack systems**
 * 💬 Ask me about **React, Next.js, Node.js, TypeScript, and backend architecture**
-* 🎨 I enjoy building clean, sharp interfaces with strong user experience
+* 🎨 I enjoy building clean interfaces with strong user experience
 * 🚀 Focused on combining **Full Stack Development + DeFi + AI**
 
 ---
@@ -70,23 +70,3 @@
   <img src="https://img.shields.io/badge/LangChain-AI_Agents-1C3C3C?style=for-the-badge&labelColor=0d1117" alt="LangChain"/>
   <img src="https://img.shields.io/badge/Premiere_Pro-Video_Editing-9999FF?style=for-the-badge&labelColor=0d1117" alt="Premiere Pro"/>
 </p>
-
----
-
-### ⚡  What I Build
-
-* Full-stack web apps with **Next.js, React, TypeScript, and Tailwind**
-* Backend systems using **Node.js, Python, MongoDB, and PostgreSQL**
-* AI-powered workflows using **LangChain**
-* Clean product interfaces with **Figma**
-* Cloud and deployment workflows with **Azure and Docker**
-
----
-
-<div align="center">
-
-### ✨ Craft is where science & art break even.
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer"/>
