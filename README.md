@@ -2,7 +2,7 @@
 
 # Hey, I'm Parag 👋
 
-**`Software Developer | Web3 Builder | UI/UX Designer`**
+**`Software Developer | Full Stack Builder | UI/UX Designer`**
 
 <br/>
 
@@ -20,24 +20,24 @@
 ### 🧑‍💻  About Me
 
 * 🔭 Currently building **ArbiMind**, an intelligent DeFi trading agent
-* 🧠 Interested in **Web3, DeFi automation, AI agents, and full-stack systems**
+* 🧠 Interested in **AI agents, automation, product design, and full-stack systems**
 * 💬 Ask me about **React, Next.js, Node.js, TypeScript, and backend architecture**
 * 🎨 I enjoy building clean interfaces with strong user experience
-* 🚀 Focused on combining **Full Stack Development + DeFi + AI**
+* 🚀 Focused on shipping practical, well-designed software
 
 ---
 
 ### 🚀  Featured Project: ArbiMind
 
-**ArbiMind** is an intelligent DeFi trading agent designed to analyze opportunities, automate strategy execution, and simplify decentralized trading workflows.
+**ArbiMind** is an intelligent trading agent designed to analyze opportunities, support automated strategy execution, and simplify complex trading workflows.
 
 **Core Areas:**
 
-* DeFi trading automation
+* Trading automation
 * AI-powered decision support
-* Web3 integrations
 * Full-stack dashboard development
-* Smart contract interaction
+* Real-time data workflows
+* Clean product experience
 
 ---
 
